@@ -12,7 +12,7 @@ Priscilla Miller
 **Audience:** Technical, NLP/ML practitioners and researchers
 **Role:** Sole author
 
-Research report on a hybrid BERT-BiLSTM architecture for classifying poems into nine poetic forms. Covers dataset construction from multiple sources (2,270 poems), model architecture decisions, class imbalance strategies, and a detailed performance comparison across four model iterations. The final model achieved an F1-weighted-average of 0.86.
+Research report on a hybrid BERT-BiLSTM architecture for classifying poems into nine poetic forms. Covers dataset construction from multiple sources (2,270 poems), model architecture decisions, class imbalance strategies, and a detailed performance comparison across four model iterations.
 
 ---
 
@@ -23,14 +23,14 @@ Research report on a hybrid BERT-BiLSTM architecture for classifying poems into 
 **Audience:** Technical, data science and policy researchers
 **Role:** Co-author and final reviewer/editor
 
-Analysis of whether voting difficulty affects political parties disproportionately, using data from the American National Election Studies (ANES) 2022 Pilot Study. Applies a Wilcoxon rank-sum test to evaluate differences in self-reported voting difficulty between Republican and Democratic voters.
+Analysis of whether voting difficulty affects political parties disproportionately, using data from the American National Election Studies (ANES) 2022 Pilot Study.
 
 ### Describing the Relationship between Leisure Time and Age
 **Document type:** Regression analysis report
 **Audience:** Technical, data science researchers
 **Role:** Co-author and final reviewer/editor
 
-Descriptive analysis of how time spent on leisure activities varies by age, using data from the 2022 American Time Use Survey (ATUS). Builds a polynomial regression model with covariates for gender, children, and household income.
+Descriptive analysis of how time spent on leisure activities varies by age, using data from the 2022 American Time Use Survey (ATUS).
 
 ---
 
