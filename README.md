@@ -1,11 +1,11 @@
-# Writing Samples
+# Editing/Writing Samples
 
-Priscilla Miller
-[linkedin.com/in/cillam](https://www.linkedin.com/in/cillam/) | [github.com/cillam](https://github.com/cillam)
+Editor/Writer: Priscilla Miller
+[linkedin.com/in/cillam](https://www.linkedin.com/in/cillam/)
 
 ---
 
-## Technical and ML Writing
+## Research and ML Writing
 
 ### Poetic Form Classification Using a BERT + BiLSTM Model
 **Document type:** ML research report
@@ -14,7 +14,7 @@ Priscilla Miller
 
 **Role:** Sole author
 
-Research report on a hybrid BERT-BiLSTM architecture for classifying poems into nine poetic forms. Covers dataset construction from multiple sources (2,270 poems), model architecture decisions, class imbalance strategies, and a detailed performance comparison across four model iterations.
+Research report on a hybrid BERT-BiLSTM architecture for classifying poems into nine poetic forms. Covers dataset construction from multiple sources, model architecture decisions, class imbalance strategies, and a detailed performance comparison across four model iterations.
 
 ---
 
@@ -63,6 +63,10 @@ A 33-page proposal for a fictional SaaS-based payments platform (MerchBill), rec
 **Context:** Writing assignment from Technical Communication I, UC Berkeley Extension
 
 A process description demonstrating the ability to describe a scientific process in clear, accessible language for a general audience.
+
+---
+
+## Editing
 
 ### 3D Printing: Technical Description Edit
 **Document type:** Substantive editing sample (revised text with original for comparison)
